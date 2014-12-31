@@ -1,4 +1,4 @@
 lxmixer
 =======
 
-a Qt fork of pavucontrol
+a Qt fork of pavucontrol for LXQT Desktop Environment
