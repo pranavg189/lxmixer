@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.11)
-project(lxqt-about)
+project(lxmixer)
 
 set(CPP_FILES
     main.cpp
@@ -27,7 +27,7 @@ set(APP_SHARE_DIR share/lxqt/${PROJECT_NAME})
 include(LXQtTranslateDesktop)
 lxqt_translate_desktop(DESKTOP_FILES
     SOURCES
-    resources/lxqt-about.desktop.in
+    resources/lxmixer.desktop.in
 )
 #************************************************
 

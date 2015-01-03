@@ -34,7 +34,6 @@ int main(int argc, char *argv[])
 {
     LxQt::Application app(argc, argv);
     QWidget window;
-    //LxQt::AboutDialog dlg;
     window.resize(800, 300);
     window.setWindowTitle("lxmixer");
     window.show();

@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
-Name=About LXQt
-GenericName=About LXQt
-Comment=Learn more about LXQt
-Exec=lxqt-about
+Name=lxmixer
+GenericName=lxmixer
+Comment= A Qt fork of pavucontrol
+Exec=lxmixer
 Icon=help-about
 Categories=Help;LXQt
 OnlyShowIn=LXQt;LXDE;
