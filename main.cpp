@@ -25,18 +25,13 @@
  *
  * END_COMMON_COPYRIGHT_HEADER */
 
-#include <LXQt/Application>
-#include <LXQt/AboutDialog>
-#include <LXQt/GridLayout>
-#include <QWidget>
+#include "lxmixer.h"
+#include <QApplication>
 
 int main(int argc, char *argv[])
 {
-    LxQt::Application app(argc, argv);
-    QWidget window;
-    window.resize(800, 300);
-    window.setWindowTitle("lxmixer");
+    QApplication app(argc, argv);
+    window.setWindowTitle("LxMixer");
     window.show();
-
     return app.exec();
 }

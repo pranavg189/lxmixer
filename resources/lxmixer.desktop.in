@@ -1,11 +1,8 @@
-[Desktop Entry]
 Type=Application
 Name=lxmixer
 GenericName=lxmixer
-Comment= A Qt fork of pavucontrol
+Comment=A Qt fork of pavucontrol
 Exec=lxmixer
-Icon=help-about
-Categories=Help;LXQt
+Icon=multimedia-volume-control
+Categories=AudioVideo;Audio;Mixer;LXQt
 OnlyShowIn=LXQt;LXDE;
-
-#TRANSLATIONS_DIR=translations
