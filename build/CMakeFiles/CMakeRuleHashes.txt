@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-3786302a2bd9c5c43e47983cc238d83b lxmixer.desktop
-c763fbcb59752cbace8ba1b0e9ad6945 lxqt-about.desktop
